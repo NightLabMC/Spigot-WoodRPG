@@ -12,4 +12,4 @@ WoodRPG currently in ALPHA phase development, which may contains bugs or not wor
 WoodRPG was tested on spigot server version 1.13 and 1.14. we will keep testing the plugin to support more spigot version.
 
 
-#### All rights reserved © 2020 Rehoukrel Studio
+#### © 2020 Rehoukrel Studio
